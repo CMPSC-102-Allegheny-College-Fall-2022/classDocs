@@ -52,7 +52,7 @@ If you are already on the department's Discord server, then you will be given ac
 
 
 ## `classDocs/`
-All materials given out in class will be accessible using the `ClassDocs/` repository. Note: The HTTP link works in absence of SSH keys.
+All materials given out in class will be accessible using the `classDocs/` repository. Note: The HTTP link works in absence of SSH keys.
 Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs.git)
 
 ## Course Deliverable
