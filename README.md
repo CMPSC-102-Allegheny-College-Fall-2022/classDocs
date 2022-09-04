@@ -91,11 +91,11 @@ The grade that a student receives in this class will be based on the following c
 |Category              | Percentage | Assessment metric
 |:-------------------- | :--------- | :-----------------
 |Class Participation        | 5%    | check mark grade
-|Midterm Exam               | 10%   | check mark grade
+|Midterm Exam               | 10%   | letter grade
 |Final Project              | 15%   | letter grade
-|Source Code surveys        | 15%   | letter grade
+|Source Code surveys        | 15%   | check mark grade
 |Programming Projects       | 15%   | check mark grade
-|Engineering Efforts (labs) | 40%   | letter grade
+|Engineering Efforts        | 40%   | letter grade
 |Total                      | 100%       |
 
 #### Grading Scale
