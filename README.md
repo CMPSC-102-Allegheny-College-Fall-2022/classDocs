@@ -205,28 +205,28 @@ Week # | Dates   | Topic | Reading|
 1 | Aug. 29-Sep.2   | Introduction to the course | Read the syllabus|
 1 | | No lab| N/A|
 2 | 5 Sept - 9 Sept   |  | Chap 1|
-2 | 5 Sept            | Lab: Software Tools| Hand out|
+2 | 6 Sept            | Lab: [file_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
 3 | 12 Sept - 16 Sept |                     |        |
-3 | 12 Sept           | Lab: | Hand out|
+3 | 13 Sept           | Lab: | Hand out|
 4 | 19 Sept - 23 Sept |                     |        |
-4 | 19 Sept           | Lab: | Hand out|
+4 | 20 Sept           | Lab: | Hand out|
 5 | 26 Sept - 30 Sept |                     |        |
-5 | 26 Sept           | Lab: | Hand out|
+5 | 27 Sept           | Lab: | Hand out|
 6 | 3 Oct - 7 Oct     |                     |        |
-6 | 12 Oct            | Lab: | Hand out|
+6 | 4 Oct            | Lab: | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
 8 | 17 Oct - 21 Oct |                     |        |
-8 | 17 Oct           | Lab: | Hand out|
+8 | 18 Oct           | Lab: | Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
-9 | 24 Oct            | Lab: | Hand out|
+9 | 25 Oct            | Lab: | Hand out|
 10 | 31 Oct - 4 Nov   |                     |        |
-10 | 31 Oct           | Lab: | Hand out|
+10 | 1 Nov           | Lab: | Hand out|
 11 | 7 Nov - 11 Nov  |                     |        |
-11 | 7 Nov           | Lab: | Hand out|
+11 | 8 Nov           | Lab: | Hand out|
 12 | 14 Nov - 17 Nov |                     |        |
-12 | 14 Nov          | Lab: | Hand out|
+12 | 15 Nov          | Lab: | Hand out|
 13 | 21 Nov - 25 Nov |                     |        |
-13 | 21 Nov          | Lab: | Hand out|
+13 | 22 Nov          | Lab: | Hand out|
 14 | 28 Nov - 2 Dec |                     |        |
-14 | 28 Nov          | Lab: | Hand out|
+14 | 29 Nov          | Lab: | Hand out|
