@@ -204,11 +204,11 @@ Week # | Dates   | Topic | Reading|
 ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------|
 1 | Aug. 29-Sep.2   | Introduction to the course | Read the syllabus|
 1 | | No lab| N/A|
-2 | 5 Sept - 9 Sept   |  | Chap 1|
-2 | 6 Sept            | Lab: [file_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
-3 | 12 Sept - 16 Sept |                     |        |
-3 | 13 Sept           | Lab: | Hand out|
-4 | 19 Sept - 23 Sept |                     |        |
+2 | 5 Sept - 9 Sept   | Making Connections | Chap 1 and 2 in Stavely|
+2 | 6 Sept            | Lab: [File_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
+3 | 12 Sept - 16 Sept | Programming Constructs   | Chap 3 in Stavely, Chap 1 and Appendix B in Saha |
+3 | 13 Sept           | Lab: [Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
+4 | 19 Sept - 23 Sept | Python Functions      |  Chap 4 in Stavely, Chap 3 in Saha  |
 4 | 20 Sept           | Lab: | Hand out|
 5 | 26 Sept - 30 Sept |                     |        |
 5 | 27 Sept           | Lab: | Hand out|
