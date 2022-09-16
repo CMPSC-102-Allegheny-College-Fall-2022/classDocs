@@ -206,7 +206,7 @@ Week # | Dates   | Topic | Reading|
 1 | | No lab| N/A|
 2 | 5 Sept - 9 Sept   | Making Connections | Chap 1 and 2 in Stavely|
 2 | 6 Sept            | Lab: [File_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
-3 | 12 Sept - 16 Sept | Programming Constructs   | Chap 3 in Stavely, Chap 1 and Appendix B in Saha |
+3 | 12 Sept - 16 Sept | Programming Constructs, Activity 01 [https://classroom.github.com/a/Pwmul9wH](https://classroom.github.com/a/Pwmul9wH)   | Chap 3 in Stavely, Chap 1 and Appendix B in Saha |
 3 | 13 Sept           | Lab: [Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
 4 | 19 Sept - 23 Sept | Python Functions      |  Chap 4 in Stavely, Chap 3 in Saha  |
 4 | 20 Sept           | Lab: | Hand out|
