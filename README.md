@@ -209,7 +209,7 @@ Week # | Dates   | Topic | Reading|
 3 | 12 Sept - 16 Sept | Programming Constructs, [Activity 01](https://classroom.github.com/a/Pwmul9wH)   | Chap 3 in Stavely, Chap 1 and Appendix B in Saha |
 3 | 13 Sept           | Lab: [Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
 4 | 19 Sept - 23 Sept | Python Functions      |  Chap 4 in Stavely, Chap 3 in Saha  |
-4 | 20 Sept           | Lab: | Hand out|
+4 | 20 Sept           | Lab: [Iterative Exponentiation](https://classroom.github.com/a/kePU_vue) | Hand out|
 5 | 26 Sept - 30 Sept |                     |        |
 5 | 27 Sept           | Lab: | Hand out|
 6 | 3 Oct - 7 Oct     |                     |        |
