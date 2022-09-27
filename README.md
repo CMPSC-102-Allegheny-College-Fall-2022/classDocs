@@ -210,7 +210,7 @@ Week # | Dates   | Topic | Reading|
 3 | 13 Sept           | Lab: [Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
 4 | 19 Sept - 23 Sept | Python Functions, [Activity: Survey02 ComputeTheAvg](https://classroom.github.com/a/UgrofwAd)|  Chap 4 in Stavely, Chap 3 in Saha  |
 4 | 20 Sept           | Lab: [Iterative Exponentiation](https://classroom.github.com/a/kePU_vue) | Hand out|
-5 | 26 Sept - 30 Sept |  Bulding and using Virtual Environments | slides       |
+5 | 26 Sept - 30 Sept |  Building and Using Virtual Environments | slides       |
 5 | 27 Sept           | Lab: [virtual_Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
 6 | 3 Oct - 7 Oct     |                     |        |
 6 | 4 Oct            | Lab: | Hand out|
