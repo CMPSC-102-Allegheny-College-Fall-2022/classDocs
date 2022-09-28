@@ -1,0 +1,27 @@
+[tool.poetry]
+name = "hello-user"
+version = "0.1.0"
+description = ""
+authors = ["Oliver Bonham-Carter <obonhamcarter@allegheny.edu>"]
+readme = "README.md"
+packages = [{include = "hello_user"}]
+
+[tool.poetry.scripts]
+hello_user = "hello_user.main:cli"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+typer = "^0.6.1"
+rich = "^12.5.1"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^22.8.0"
+mypy = "^0.971"
+
+[tool.taskipy.tasks]
+black = { cmd = "black average tests --check", help = "Run the black checks for source code format" }
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

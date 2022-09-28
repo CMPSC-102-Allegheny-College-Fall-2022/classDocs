@@ -61,7 +61,7 @@ def plotter(X:list,y:list,y_1:list,y_2:list) -> None:
     plt.title("Boosted Decision Tree Regression")
     plt.legend()
     fname = "regressionPlot.png"
-    print(f"\t [+]Attempting to save to file {fname}")
+    print(f"\t [+] Attempting to save to file {fname}")
     plt.savefig(fname)
     plt.show()
 # end of plotter()

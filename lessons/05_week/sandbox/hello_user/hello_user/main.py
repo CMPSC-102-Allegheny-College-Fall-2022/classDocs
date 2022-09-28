@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 
 from rich.console import Console
-
 import typer
+import moreFun # load in the source file called moreFun.py
 
 # create a Typer object to support the command-line interface
 cli = typer.Typer()
@@ -17,6 +17,7 @@ def main(first: str = "", middle: str = "", last: str = ""):
     console.print(f"   first = {first}")
     console.print(f"   middle = {middle}")
     console.print(f"   last = {last}")
-
+    myGreeting = "Oh More Greetings!"
+    moreFun.giveMoreFun(myGreeting) # call the function in the moreFun.py file
 
 # end of main()
