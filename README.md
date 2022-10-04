@@ -213,7 +213,7 @@ Week # | Dates   | Topic | Reading|
 5 | 26 Sept - 30 Sept |  Building and Using Virtual Environments | slides       |
 5 | 27 Sept           | Lab: [Working in Virtual Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
 6 | 3 Oct - 7 Oct     |                     |        |
-6 | 4 Oct            | Lab: | Hand out|
+6 | 4 Oct            | Lab: [05_data-summarization](https://classroom.github.com/a/FgyWJxtk) | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
 8 | 17 Oct - 21 Oct |                     |        |
