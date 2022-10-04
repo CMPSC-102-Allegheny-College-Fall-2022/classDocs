@@ -205,14 +205,14 @@ Week # | Dates   | Topic | Reading|
 1 | Aug. 29-Sep.2   | Introduction to the course | Read the syllabus|
 1 | | No lab| N/A|
 2 | 5 Sept - 9 Sept   | Making Connections | Chap 1 and 2 in Stavely|
-2 | 6 Sept            | Lab: [File_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
+2 | 6 Sept            | Lab: [01_File_search](https://classroom.github.com/a/knJ_iLPp)| Hand out|
 3 | 12 Sept - 16 Sept | Programming Constructs, [Activity: Survey01](https://classroom.github.com/a/Pwmul9wH)   | Chap 3 in Stavely, Chap 1 and Appendix B in Saha |
-3 | 13 Sept           | Lab: [Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
+3 | 13 Sept           | Lab: [02_Root_finder](https://classroom.github.com/a/xBEQCY-X)| Hand out|
 4 | 19 Sept - 23 Sept | Python Functions, [Activity: Survey02 ComputeTheAvg](https://classroom.github.com/a/UgrofwAd)|  Chap 4 in Stavely, Chap 3 in Saha  |
-4 | 20 Sept           | Lab: [Iterative Exponentiation](https://classroom.github.com/a/kePU_vue) | Hand out|
+4 | 20 Sept           | Lab: [03_Iterative Exponentiation](https://classroom.github.com/a/kePU_vue) | Hand out|
 5 | 26 Sept - 30 Sept |  Building and Using Virtual Environments | slides       |
-5 | 27 Sept           | Lab: [Working in Virtual Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
-6 | 3 Oct - 7 Oct     |                     |        |
+5 | 27 Sept           | Lab: [04_Working in Virtual Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
+6 | 3 Oct - 7 Oct     | Data Containers: Sets, Tutples, Lists and Dictionaries  | Chap 5; Stavely, Chap 2; Saha|
 6 | 4 Oct            | Lab: [05_data-summarization](https://classroom.github.com/a/FgyWJxtk) | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
