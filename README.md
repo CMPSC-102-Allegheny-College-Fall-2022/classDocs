@@ -212,7 +212,7 @@ Week # | Dates   | Topic | Reading|
 4 | 20 Sept           | Lab: [03_Iterative Exponentiation](https://classroom.github.com/a/kePU_vue) | Hand out|
 5 | 26 Sept - 30 Sept |  Building and Using Virtual Environments | slides       |
 5 | 27 Sept           | Lab: [04_Working in Virtual Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
-6 | 3 Oct - 7 Oct     | Data Containers: Sets, Tutples, Lists and Dictionaries  | Chap 5; Stavely, Chap 2; Saha|
+6 | 3 Oct - 7 Oct     | Data Containers: Sets, Tutples, Lists and Dictionaries, [Activity: Survey03_csvReader](https://classroom.github.com/a/p7dgwPFm) | Chap 5; Stavely, Chap 2; Saha|
 6 | 4 Oct            | Lab: [05_data-summarization](https://classroom.github.com/a/FgyWJxtk) | Hand out|
 7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
