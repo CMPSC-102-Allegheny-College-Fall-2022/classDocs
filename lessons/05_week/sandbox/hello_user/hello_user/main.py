@@ -3,7 +3,8 @@
 
 from rich.console import Console
 import typer
-import moreFun # load in the source file called moreFun.py
+
+from hello_user import moreFun # load in the source file called moreFun.py
 
 # create a Typer object to support the command-line interface
 cli = typer.Typer()
