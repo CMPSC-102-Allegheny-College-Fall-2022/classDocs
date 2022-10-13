@@ -217,7 +217,6 @@ Week # | Dates   | Topic | Reading|
 7 | 10 Oct - 12 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
 7 | 14 Oct   | [Activity: Survey04_tuppleSwapping](https://classroom.github.com/a/VD5xQOOH)  |       |
-7 | | | |
 8 | 17 Oct - 21 Oct |                     |        |
 8 | 18 Oct           | Lab: | Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
