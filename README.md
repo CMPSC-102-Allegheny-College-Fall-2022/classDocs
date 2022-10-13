@@ -214,8 +214,10 @@ Week # | Dates   | Topic | Reading|
 5 | 27 Sept           | Lab: [04_Working in Virtual Environments](https://classroom.github.com/a/FOV2gbu9)| Hand out|
 6 | 3 Oct - 7 Oct     | Data Containers: Sets, Tutples, Lists and Dictionaries, [Activity: Survey03_csvReader](https://classroom.github.com/a/p7dgwPFm) | Chap 5; Stavely, Chap 2; Saha|
 6 | 4 Oct            | Lab: [05_data-summarization](https://classroom.github.com/a/FgyWJxtk) | Hand out|
-7 | 10 Oct - 14 Oct   | Fall Break; No Class |       |
+7 | 10 Oct - 12 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
+7 | 14 Oct   | [Activity: Survey04_tuppleSwapping](https://classroom.github.com/a/VD5xQOOH)  |       |
+7 | | | |
 8 | 17 Oct - 21 Oct |                     |        |
 8 | 18 Oct           | Lab: | Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
