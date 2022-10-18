@@ -217,8 +217,8 @@ Week # | Dates   | Topic | Reading|
 7 | 10 Oct - 12 Oct   | Fall Break; No Class |       |
 7 | | No lab| N/A|
 7 | 14 Oct   | [Activity: Survey04_tuppleSwapping](https://classroom.github.com/a/VD5xQOOH)  |       |
-8 | 17 Oct - 21 Oct |                     |        |
-8 | 18 Oct           | Lab: | Hand out|
+8 | 17 Oct - 21 Oct |  Monoids  |  Chap 6; Stavely, Chap 3; Saha      |
+8 | 18 Oct           | Lab: [06_data-analysis-starter](https://classroom.github.com/a/FNC2X_G6)| Hand out|
 9 | 24 Oct - 28 Oct |                     |        |
 9 | 25 Oct            | Lab: | Hand out|
 10 | 31 Oct - 4 Nov   |                     |        |
