@@ -219,8 +219,8 @@ Week # | Dates   | Topic | Reading|
 7 | 14 Oct   | [Activity: Survey04_tuppleSwapping](https://classroom.github.com/a/VD5xQOOH)  |       |
 8 | 17 Oct - 21 Oct |  Monoids [Activity: Survey 05](https://classroom.github.com/a/sH6bWOAK)  |  Chap 6; Stavely, Chap 3; Saha      |
 8 | 18 Oct           | Lab: [06_data-analysis-starter](https://classroom.github.com/a/FNC2X_G6)| Hand out|
-9 | 24 Oct - 28 Oct |  Test week: Details given in class slides. [Activity: Survey 06](https://classroom.github.com/a/_XVhojpu) |        |
-9 | 25 Oct            | Lab: | Hand out|
+9 | 24 Oct - 28 Oct |  Test week: Details given in class slides. [Activity: Survey 06](https://classroom.github.com/a/_XVhojpu), [Video activity](https://forms.gle/Qgqwa1Tx7cnYDxFe8) |        |
+9 | 25 Oct            | Lab: see last lab assignment | Hand out|
 10 | 31 Oct - 4 Nov   |                     |        |
 10 | 1 Nov           | Lab: | Hand out|
 11 | 7 Nov - 11 Nov  |                     |        |
