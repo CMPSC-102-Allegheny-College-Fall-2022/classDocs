@@ -222,11 +222,11 @@ Week # | Dates   | Topic | Reading|
 9 | 24 Oct - 28 Oct |  Test week: Details given in class slides. [Activity: Survey 06](https://classroom.github.com/a/_XVhojpu), [Video activity](https://forms.gle/Qgqwa1Tx7cnYDxFe8) |        |
 9 | 25 Oct            | Lab: see last lab assignment | Hand out|
 10 | 31 Oct - 4 Nov   | Generator functions [Activity: survey 07 MorseCD](https://classroom.github.com/a/mQFPw5Jw)|        |
-10 | 1 Nov           | Lab: [08_ethics](https://classroom.github.com/a/zMf4XqiI)| Hand out|
+10 | 1 Nov           | Lab: [07_ethics](https://classroom.github.com/a/zMf4XqiI)| Hand out|
 11 | 7 Nov - 11 Nov  |  Sets [Activity: Survey 8](https://classroom.github.com/a/KqpXK-bI) |        |
 11 | 8 Nov           | Lab: None| Hand out|
-12 | 14 Nov - 17 Nov |                     |        |
-12 | 15 Nov          | Lab: | Hand out|
+12 | 14 Nov - 17 Nov | Putting it together: sets and lists                    |        |
+12 | 15 Nov          | Lab: [08_list_unification](https://classroom.github.com/a/75pQsRRj)| Hand out|
 13 | 21 Nov - 25 Nov |                     |        |
 13 | 22 Nov          | Lab: | Hand out|
 14 | 28 Nov - 2 Dec |                     |        |
