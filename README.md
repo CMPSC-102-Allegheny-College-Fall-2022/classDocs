@@ -128,15 +128,18 @@ Your class instructor will be using GitHub Classroom to collect all assignments.
 All assignments will have a stated due date. The electronic version of the class assignments are to be turned in at the beginning of the lab session on that due date. Submissions after the beginning of class are counted as being late. Assignments will be accepted for up to one week past the assigned due date with a 15% penalty. All late assignments must be submitted at the beginning of the session that is scheduled one week after the due date. The honor code (see below) is assumed for all submitted work.
 
 ### Extensions
+
 Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a valid reason for your extension. This request must come before the due date of the lab and __not__ on the due date.
 
 Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness  to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
 
 ### Attendance
+
 It is mandatory for all students to attend the class and laboratory sessions. If you will  not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five 4unexcused classes, laboratory sessions, or group project meetings will have their final  grade in the course reduced by one letter grade. Students who miss more than ten of the aforementioned events will automatically fail the course.
 
 ### Extensions
+
 Unless special arrangements are made with the course instructor, no assignments will be accepted after the late deadline. If you are requesting extensions for a lab assignment, then you are to email me with your request and also provide a __valid reason__ for your extension. This request must come before the due date of the lab and not on the due date. Requests will not be granted where the reason appears to be insignificant. Extensions are 24 hours of extra time (after the original due date) and are given out at my discretion. The decision to provide you with an extension (or not) will be weighed in light of fairness to your peers who are still able to complete their labs, regardless of their own busy schedules.
 
 The submission of homework comprises the Honor Code pledge of the student(s) completing the work. For any assignment completed in a group, students must also turn in a one-page reflection that describes each group member's contribution to the submitted deliverables.  
@@ -153,11 +156,13 @@ If you should find yourself in difficult circumstances that significantly interf
 
 
 ### Communication
+
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
 
 ### Gradebook Repository
+
  + [https://classroom.github.com/a/X0YnIQnZ](https://classroom.github.com/a/X0YnIQnZ)
 
 
@@ -226,7 +231,7 @@ Week # | Dates   | Topic | Reading|
 11 | 7 Nov - 11 Nov  |  Sets [Activity: Survey 8](https://classroom.github.com/a/KqpXK-bI) |        |
 11 | 8 Nov           | Lab: None| Hand out|
 12 | 14 Nov - 17 Nov | Putting it together: sets and lists                    |        |
-12 | 15 Nov          | Lab: [08_list_unification](https://classroom.github.com/a/75pQsRRj)| Hand out|
+12 | 15 Nov          | Lab: [08_list_unification](https://classroom.github.com/a/75pQsRRj), [Final Project](https://classroom.github.com/a/BPhcvHk5)| Hand out|
 13 | 21 Nov - 25 Nov |                     |        |
 13 | 22 Nov          | Lab: | Hand out|
 14 | 28 Nov - 2 Dec |                     |        |
