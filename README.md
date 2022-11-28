@@ -232,7 +232,7 @@ Week # | Dates   | Topic | Reading|
 11 | 8 Nov           | Lab: None| Hand out|
 12 | 14 Nov - 17 Nov | Putting it together: sets and lists                    |        |
 12 | 15 Nov          | Lab: [08_list_unification](https://classroom.github.com/a/75pQsRRj), [Final Project](https://classroom.github.com/a/BPhcvHk5)| Hand out|
-13 | 21 Nov - 25 Nov |                     |        |
-13 | 22 Nov          | Lab: | Hand out|
-14 | 28 Nov - 2 Dec |                     |        |
+13 | 21 Nov - 25 Nov |   Thanksgiving                  |        |
+13 | 22 Nov          |  | |
+14 | 28 Nov - 2 Dec |   [classactivity(survey09)_groupsDiscussingResearch](https://forms.gle/J5gho8uLoM4EUARn7)                  |        |
 14 | 29 Nov          | Lab: | Hand out|
