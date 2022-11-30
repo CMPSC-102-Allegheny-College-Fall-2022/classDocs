@@ -236,3 +236,4 @@ Week # | Dates   | Topic | Reading|
 13 | 22 Nov          |  | |
 14 | 28 Nov - 2 Dec |   [classactivity(survey09)_groupsDiscussingResearch](https://forms.gle/J5gho8uLoM4EUARn7)                  |        |
 14 | 29 Nov          | Lab: | Hand out|
+14 | 31 Nov |   Discussion of Presntations                  |        |
