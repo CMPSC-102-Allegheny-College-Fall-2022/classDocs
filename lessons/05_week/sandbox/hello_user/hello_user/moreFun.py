@@ -8,5 +8,5 @@ def giveMoreFun(myText: str) -> None:
     """ Function to send an extra part of the greeting"""
     # create a console for rich text output
     console = Console()
-    console.print(f"Sending more fun from giveMoreFun(): {myText}")
+    console.print(f"\n\t This is the giveMoreFun() function sending a huge hello to : {myText}")
 # end of giveMoreFun()
