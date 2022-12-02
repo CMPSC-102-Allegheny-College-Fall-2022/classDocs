@@ -236,4 +236,4 @@ Week # | Dates   | Topic | Reading|
 13 | 22 Nov          |  | |
 14 | 28 Nov - 2 Dec |   [class Activity (Survey 09)](https://forms.gle/J5gho8uLoM4EUARn7) Groups Discussing Research [Activity (Survey 10)](https://classroom.github.com/a/Un74gqNK) Mode Calculation                 |        |
 14 | 29 Nov          | Lab: | Hand out|
-14 | 31 Nov |   Discussion of Presntations                  |        |
+14 | 31 Nov |   Discussion of Presentations                  |        |
