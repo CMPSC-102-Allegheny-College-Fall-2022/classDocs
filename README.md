@@ -234,6 +234,6 @@ Week # | Dates   | Topic | Reading|
 12 | 15 Nov          | Lab: [08_list_unification](https://classroom.github.com/a/75pQsRRj), [Final Project](https://classroom.github.com/a/BPhcvHk5)| Hand out|
 13 | 21 Nov - 25 Nov |   Thanksgiving                  |        |
 13 | 22 Nov          |  | |
-14 | 28 Nov - 2 Dec |   [classactivity(Survey 09)_groupsDiscussingResearch](https://forms.gle/J5gho8uLoM4EUARn7) [Activity (Survey 10) Mode Calculation](https://classroom.github.com/a/Un74gqNK)                 |        |
+14 | 28 Nov - 2 Dec |   [classactivity(Survey 09)](https://forms.gle/J5gho8uLoM4EUARn7) groupsDiscussingResearch [Activity (Survey 10)](https://classroom.github.com/a/Un74gqNK) Mode Calculation                 |        |
 14 | 29 Nov          | Lab: | Hand out|
 14 | 31 Nov |   Discussion of Presntations                  |        |
