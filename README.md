@@ -51,7 +51,6 @@ If you are already on the department's Discord server, then you will be given ac
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_uj562m6crmj7krb9e9rnngeu2c%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-
 ## `classDocs/`
 All materials given out in class will be accessible using the `classDocs/` repository. Note: The HTTP link works in absence of SSH keys.
 Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-102-Allegheny-College-Fall-2022/classDocs.git)
@@ -59,7 +58,6 @@ Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-102-Allegheny-College
 ## Course Deliverable
  + Due: 16th December 2022, 7:00pm
  + Course code for final exam: F
-
 
 ## Course Description
 Credits: 4
@@ -78,7 +76,6 @@ Students of discrete structures should demonstrate the mastery of these learning
 * To become knowledgeable with reading and writing intermediate programing
 * Gain skill in implementing mathematical thinking into the design of computer code
 * To gain experience in designing programs which apply mathematial theory for calculation  
-
 
 ## Textbooks
 
@@ -164,7 +161,6 @@ If you should find yourself in difficult circumstances that significantly interf
  +  [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
  +  [Student Life](https://sites.allegheny.edu/studentlife/)
 
-
 ### Communication
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
@@ -174,7 +170,6 @@ Additionally, the course website will be used to store the syllabus, course sche
 ### Gradebook Repository
 
  + [https://classroom.github.com/a/X0YnIQnZ](https://classroom.github.com/a/X0YnIQnZ)
-
 
 ### Bring your own computer to class
 
@@ -206,10 +201,6 @@ More information about the code may be found at the [Maytum Center for Student S
 ### Welcome to Computer Science Research!
 
 Types of computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester.
-
-
-
-
 
 ### Schedule
 
