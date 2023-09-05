@@ -12,6 +12,7 @@ This repository contains information about Discrete Structures, including the co
 - [`classDocs/`](#Classdocs)
 - [Deliverable](#Deliverable)
 - [Course Description](#Description)
+- [Course Objectives](#course-objectives)
 - [Textbooks](#Textbooks)
 - [Course Policies](#Policies)
 - [Grading](#Grading)
@@ -68,6 +69,15 @@ An introduction to the foundations of computer science with an emphasis on under
 Prerequisite: Knowledge of elementary algebra.
 
 Distribution Requirements: QR, SP
+
+## Course Objectives
+
+Students of discrete structures should demonstrate the mastery of these learning objectives in the categories of mathematical communication, rigorous programming, and effective communication. According to Higher-Ed Researcher Robert Talbert, a learning objective must be "a clear, measurable action that a student should be able to do once the lesson is over" For the purposes of this site, these learning objectives are not for a specific lesson but rather an entire course for either an Allegheny College student or, for the duration of self-paced learning, all other emerging proactive programmers. Some of the objectives of the course are listed below.
+
+* Gain skill in understanding mathematical and logical concepts which overlap with concepts in Computer Science
+* To become knowledgeable with reading and writing intermediate programing
+* Gain skill in implementing mathematical thinking into the design of computer code
+* To gain experience in designing programs which apply mathematial theory for calculation  
 
 
 ## Textbooks
